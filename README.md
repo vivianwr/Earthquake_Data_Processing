@@ -9,6 +9,8 @@ Java - Analyse and filter live earthquake data to find useful information
 5. A marker is a class of objects that give us a visual representation of a feature, which at the simplest level is a dot at the corresponding latitude. A marker does not, however, have to be associated with a feature as all we need is a location to draw it.
 
 
+
+
      Set Earthquake Markers
 1. Organize a complex application by using several different classes.
 2. Build a class hierarchy to reflect the different kinds of markers for different categories of earthquakes.
